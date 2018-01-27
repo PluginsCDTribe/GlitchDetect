@@ -1,0 +1,6 @@
+main: pcd.glitchdetect.Main
+name: GlitchDetect
+version: ${project.version}
+authors:
+  - IzzelAliz
+  - MagicLocyDragon
